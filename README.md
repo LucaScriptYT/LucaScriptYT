@@ -1,6 +1,6 @@
 Benvenuti nel mio portfolio,<br>
 sono Luca, un appassionato di <em>Web Development</em> ed in particolare di tutto ciò che è possibile fare con JavaScript!<br>
-Le principali tecnologie di cui voglio apprendere sempre di più sono: <strong>ReactJS</strong>, <strong>NextJS</strong> e <strong>TypeScript</strong>
+Le principali tecnologie di cui voglio apprendere sempre di più sono: <strong>ReactJS</strong>, <strong>NextJS</strong> e <strong>TypeScript</strong>.<br>
 In questo portfolio troverete progetti personali ed altri in cui applicherò la tecnica del <strong>"Learning By Teaching"</strong>, ovvero assorbirò i concetti utilizzati trasmettendo ciò che ho capito agli altri.<br>
 Per questo ho creato un <a href="https://www.youtube.com/channel/UCn3MapI6xvHxLoUTxW2AsXg">canale YT</a> in cui troverete:
 - <em>mini-corsi sulle tecnologie che utilizzo</em>
